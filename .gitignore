@@ -1,0 +1,15 @@
+# Hemligheter
+.env
+*.env
+
+# Certifikat, nycklar och keystores
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+*.jks
+*truststore*
+
+# Data från containrar
+data/
